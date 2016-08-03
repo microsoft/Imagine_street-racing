@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 3f17fa7fb252c0b4a9d37c6df696ce8d
+timeCreated: 1432080367
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box026
+    100004: HatchBackWheels
+    100006: BGPlane
+    100008: Blockade
+    100010: Box025
+    100012: Box036
+    100014: Building001
+    100016: Building002
+    100018: Building003
+    100020: Building004
+    100022: Building005
+    100024: Building006
+    100026: Building007
+    100028: Bush01
+    100030: CarWheels
+    100032: Crate01
+    100034: Cylinder023
+    100036: EGTree01
+    100038: EGTree02
+    100040: EGTree03
+    100042: FlowerPot01
+    100044: FlowerPot02
+    100046: HayStack01
+    100048: Oils Slick
+    100050: PlayerCar003
+    100052: PlayerCarWheels
+    100054: Road01
+    100056: RoadPylon
+    100058: Sidewalk
+    100060: Sidewalk001
+    100062: Truck01Wheels
+    100064: Truck02
+    100066: Truck02Wheels
+    400000: //RootNode
+    400002: Box026
+    400004: HatchBackWheels
+    400006: BGPlane
+    400008: Blockade
+    400010: Box025
+    400012: Box036
+    400014: Building001
+    400016: Building002
+    400018: Building003
+    400020: Building004
+    400022: Building005
+    400024: Building006
+    400026: Building007
+    400028: Bush01
+    400030: CarWheels
+    400032: Crate01
+    400034: Cylinder023
+    400036: EGTree01
+    400038: EGTree02
+    400040: EGTree03
+    400042: FlowerPot01
+    400044: FlowerPot02
+    400046: HayStack01
+    400048: Oils Slick
+    400050: PlayerCar003
+    400052: PlayerCarWheels
+    400054: Road01
+    400056: RoadPylon
+    400058: Sidewalk
+    400060: Sidewalk001
+    400062: Truck01Wheels
+    400064: Truck02
+    400066: Truck02Wheels
+    2300000: //RootNode
+    2300002: Box026
+    2300004: HatchBackWheels
+    2300006: BGPlane
+    2300008: Blockade
+    2300010: Box025
+    2300012: Box036
+    2300014: Building001
+    2300016: Building002
+    2300018: Building003
+    2300020: Building004
+    2300022: Building005
+    2300024: Building006
+    2300026: Building007
+    2300028: Bush01
+    2300030: CarWheels
+    2300032: Crate01
+    2300034: Cylinder023
+    2300036: EGTree01
+    2300038: EGTree02
+    2300040: EGTree03
+    2300042: FlowerPot01
+    2300044: FlowerPot02
+    2300046: HayStack01
+    2300048: Oils Slick
+    2300050: PlayerCar003
+    2300052: PlayerCarWheels
+    2300054: Road01
+    2300056: RoadPylon
+    2300058: Sidewalk
+    2300060: Sidewalk001
+    2300062: Truck01Wheels
+    2300064: Truck02
+    2300066: Truck02Wheels
+    3300000: //RootNode
+    3300002: Box026
+    3300004: HatchBackWheels
+    3300006: BGPlane
+    3300008: Blockade
+    3300010: Box025
+    3300012: Box036
+    3300014: Building001
+    3300016: Building002
+    3300018: Building003
+    3300020: Building004
+    3300022: Building005
+    3300024: Building006
+    3300026: Building007
+    3300028: Bush01
+    3300030: CarWheels
+    3300032: Crate01
+    3300034: Cylinder023
+    3300036: EGTree01
+    3300038: EGTree02
+    3300040: EGTree03
+    3300042: FlowerPot01
+    3300044: FlowerPot02
+    3300046: HayStack01
+    3300048: Oils Slick
+    3300050: PlayerCar003
+    3300052: PlayerCarWheels
+    3300054: Road01
+    3300056: RoadPylon
+    3300058: Sidewalk
+    3300060: Sidewalk001
+    3300062: Truck01Wheels
+    3300064: Truck02
+    3300066: Truck02Wheels
+    4300000: HatchBack01
+    4300002: Box026
+    4300004: HatchBackWheels
+    4300006: RoadPylon
+    4300008: Blockade
+    4300010: Oils Slick
+    4300012: Road01
+    4300014: Sidewalk
+    4300016: BGPlane
+    4300018: Building002
+    4300020: Building001
+    4300022: Building003
+    4300024: Sidewalk001
+    4300026: Building004
+    4300028: Building005
+    4300030: PlayerCar003
+    4300032: EGTree03
+    4300034: Cylinder023
+    4300036: EGTree02
+    4300038: EGTree01
+    4300040: Crate01
+    4300042: Truck02
+    4300044: Box025
+    4300046: CarWheels
+    4300048: Truck02Wheels
+    4300050: Box036
+    4300052: Truck01Wheels
+    4300054: Bush01
+    4300056: HayStack01
+    4300058: FlowerPot02
+    4300060: FlowerPot01
+    4300062: Building006
+    4300064: Building007
+    4300066: PlayerCarWheels
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

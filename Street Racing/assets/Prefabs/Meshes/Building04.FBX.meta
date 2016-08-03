@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 01ac5f778a6be9b47ac9c35e3dc66f57
+timeCreated: 1432083385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BGPlane
+    100004: Blockade
+    100006: Building001
+    100008: Building002
+    100010: Building003
+    100012: Building004
+    100014: Building005
+    100016: Car01
+    100018: HatchBack01
+    100020: Oils Slick
+    100022: PlayerCar
+    100024: Road01
+    100026: RoadPylon
+    100028: Sidewalk
+    100030: Sidewalk001
+    100032: SkyCarBody
+    100034: SkyCarBody001
+    100036: Truck01
+    100038: Truck02
+    400000: //RootNode
+    400002: BGPlane
+    400004: Blockade
+    400006: Building001
+    400008: Building002
+    400010: Building003
+    400012: Building004
+    400014: Building005
+    400016: Car01
+    400018: HatchBack01
+    400020: Oils Slick
+    400022: PlayerCar
+    400024: Road01
+    400026: RoadPylon
+    400028: Sidewalk
+    400030: Sidewalk001
+    400032: SkyCarBody
+    400034: SkyCarBody001
+    400036: Truck01
+    400038: Truck02
+    2300000: //RootNode
+    2300002: BGPlane
+    2300004: Blockade
+    2300006: Building001
+    2300008: Building002
+    2300010: Building003
+    2300012: Building004
+    2300014: Building005
+    2300016: Car01
+    2300018: HatchBack01
+    2300020: Oils Slick
+    2300022: PlayerCar
+    2300024: Road01
+    2300026: RoadPylon
+    2300028: Sidewalk
+    2300030: Sidewalk001
+    2300032: SkyCarBody
+    2300034: SkyCarBody001
+    2300036: Truck01
+    2300038: Truck02
+    3300000: //RootNode
+    3300002: BGPlane
+    3300004: Blockade
+    3300006: Building001
+    3300008: Building002
+    3300010: Building003
+    3300012: Building004
+    3300014: Building005
+    3300016: Car01
+    3300018: HatchBack01
+    3300020: Oils Slick
+    3300022: PlayerCar
+    3300024: Road01
+    3300026: RoadPylon
+    3300028: Sidewalk
+    3300030: Sidewalk001
+    3300032: SkyCarBody
+    3300034: SkyCarBody001
+    3300036: Truck01
+    3300038: Truck02
+    4300000: Building004
+    4300002: RoadPylon
+    4300004: Blockade
+    4300006: Oils Slick
+    4300008: Road01
+    4300010: Sidewalk
+    4300012: BGPlane
+    4300014: SkyCarBody
+    4300016: SkyCarBody001
+    4300018: PlayerCar
+    4300020: Truck02
+    4300022: HatchBack01
+    4300024: Car01
+    4300026: Truck01
+    4300028: Building002
+    4300030: Building001
+    4300032: Building003
+    4300034: Sidewalk001
+    4300036: Building005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
